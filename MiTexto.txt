@@ -12,3 +12,9 @@ g.merge: sirve para subir un archivo que queremos.
 h.pull: deja tomar las líneas independientes de un desarrollo
 i.fetch: sirve para una combinación.
 
+10.
+a.¿Para qué sirve el comando cd? sirve para ingresar a una carpeta
+b.¿Para qué sirve el comando dir? para visualizar los archivos.
+c.¿Para qué sirve el comando mkdir? sirve para crear una carpeta
+d.¿Para qué sirve el comando cd ..? sirve para salir de una carpeta.
+
